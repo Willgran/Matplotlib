@@ -7,5 +7,19 @@ As a senior data analyst at the company, you've been given access to the complet
 
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked you for a top-level summary of the study results.
 
-Files
 
+This assignment is broken down into the following tasks:
+
+  - Prepare the data.
+
+  * Generate summary statistics.
+
+  + Create bar charts and pie charts.
+
+  - Calculate quartiles, find outliers, and create a box plot.
+
+  * Create a line plot and a scatter plot.
+
+  + Calculate correlation and regression.
+
+  - Submit your final analysis.
